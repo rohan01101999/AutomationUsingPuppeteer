@@ -1,0 +1,11 @@
+{
+    "user" : "abc@xyz.com",
+    "password" : "abcdefg",
+    "url" : "https://www.flipkart.com/",
+    "item1" : "Coronavirus Mask",
+    "item2" : "Sanitizer",
+    "item3" : "Disinfectant",
+    "item4" : "Liquid Handwash",
+    "item5" : "Mosquito Repellent"
+
+}
